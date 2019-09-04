@@ -38,6 +38,6 @@ Distributed under the MIT License.
 
 ## Contact
 
-[Mingli Yang]https://www.linkedin.com/in/myang46/
+[Mingli Yang] (https://www.linkedin.com/in/myang46)
 
 Project Link: [https://github.com/charlieyyy/chess](https://github.com/charlieyyy/chess)
