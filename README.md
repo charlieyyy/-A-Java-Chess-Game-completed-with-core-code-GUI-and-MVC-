@@ -32,6 +32,9 @@ List of features ready
 * Forfeit - give up the game
 * Undo - undo the last move
 
+
+## Testing
+There is unit testing for each feature. Learn more about [junit testing](https://www.vogella.com/tutorials/JUnit/article.html)
 ## License
 
 Distributed under the MIT License.
