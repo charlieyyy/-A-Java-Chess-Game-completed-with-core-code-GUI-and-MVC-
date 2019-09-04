@@ -7,8 +7,8 @@
 * [Setup](#setup)
 * [Screenshots](#screenshots)
 * [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
+* [Testing](#testing)
+* [License](#license)
 * [Contact](#contact)
 
 ## General info
