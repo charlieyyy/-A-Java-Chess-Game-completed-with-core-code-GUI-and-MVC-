@@ -3,21 +3,21 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Screenshots](#screenshots)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The idea of this project is to build a GUI Desktop Applications about chess game using java spring.
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* jdk-9.0.4
+* hamcrest-core-1.3
+* junit-4.12
 
 ## Setup
 clone the project to local using git, and then build the project. The starting phase should looks like the screenshot shown below.
@@ -26,15 +26,11 @@ clone the project to local using git, and then build the project. The starting p
 ![Example screenshot](./assets/screenshot.png)
 
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## Features
 List of features ready
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* Restart - restart the game
+* Forfeit - give up the game
+* Undo - undo the last move
 
 ## License
 
