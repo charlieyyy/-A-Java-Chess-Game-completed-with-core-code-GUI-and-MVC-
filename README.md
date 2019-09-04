@@ -34,7 +34,7 @@ List of features ready
 
 
 ## Testing
-There is unit testing for each feature. Learn more about [junit testing](https://www.vogella.com/tutorials/JUnit/article.html)
+There is unit testing for each feature and class. Learn more about [junit testing](https://www.vogella.com/tutorials/JUnit/article.html)
 ## License
 
 Distributed under the MIT License.
