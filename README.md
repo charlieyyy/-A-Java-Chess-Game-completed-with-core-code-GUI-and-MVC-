@@ -1,8 +1,8 @@
-# Project Name
-> chess
+# chess
+> The idea of this project is to build a GUI Desktop Applications about chess game using java spring.
+
 
 ## Table of contents
-* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Screenshots](#screenshots)
@@ -10,9 +10,6 @@
 * [Testing](#testing)
 * [License](#license)
 * [Contact](#contact)
-
-## General info
-The idea of this project is to build a GUI Desktop Applications about chess game using java spring.
 
 ## Technologies
 * jdk-9.0.4
